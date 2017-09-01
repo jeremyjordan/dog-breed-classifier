@@ -20,7 +20,7 @@ And a human.
 
 ## Instructions
 
-The training data for this project is located [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). This dataset contains 133 different breeds of dogs and is already split into train, test, and validation sets.
+The training data for this project is located [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). This dataset contains 133 different breeds of dogs and is already split into train, test, and validation sets. Place the training, testing, and validation datasets in the `dogImages` folder. 
 
 If you want to run this code on your local computer, you'll also need to download the bottleneck features found [here](). I'll discuss what this is in the Jupyter Notebook, but it's a relatively large file so you may want to go ahead and start the download.
 
